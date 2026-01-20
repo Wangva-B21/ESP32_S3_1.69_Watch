@@ -1,0 +1,36 @@
+Folder PATH listing for volume New Volume
+Volume serial number is A660-FBFD
+E:.
+|   MainActivity.kt
+|   tree.txt
+|   
++---ble
+|       BleClientManager.kt
+|       
++---bluetooh
+|       BluetoothHelper.kt
+|       PermissionHelper.kt
+|       
++---dashboard
+|       DashboardComponents.kt
+|       DeviceTabContent.kt
+|       HealthDashboardScreen.kt
+|       HealthTabContent.kt
+|       ScanButton.kt
+|       
++---data
+|       HealthDataState.kt
+|       HealthDataUpdater.kt
+|       
++---healthconnect
+|       HealthConnectManager.kt
+|       
++---screen
+|       BluetoothScreen.kt
+|       
+\---ui
+    \---theme
+            Color.kt
+            Theme.kt
+            Type.kt
+            
